@@ -1,0 +1,25 @@
+
+- multisig - 
+master public key: Zpub6ynzUWzVnfwy2UfEgUSBbz6yUPot7k8dU1T1FQdBfzHyiyGJnxfZE1u2G77xfpnXzzHQc8FqhUGRt4gSs6o1djy29JGGGp9aWj31oFtdxaf
+derivation path: m/48h/0h/0h/2h
+electrum seed:
+    I2X9Tu9xPLmfU+MC04iRzNu0EbLp012y+KBgEVJLbkLC7TsQ/1SGCethflIl+uh7q6H7fi7GmcM22gPI1CeChYoAxAn3Ee/eSBTeR7J9q2gSm+Q4ZQH4mbeUF5v2j+RG
+electrum pass: pass
+ledger seed:                 
+    q2/cLy1e197ndQgaa8nvm2lHxHlJkLrR8WnInq/NU1f3kWZsyUMKyJPu9PUPMZwAhLUEczfea9W6Phch3a8wcsGWooiXEvnkQ4eupsqdIuv
+    TkQlmQ6oIgLY7wPL+zOoRMgma0LUY2DiJQqJN1c5sMVH66XvTskWAk2cR7Pl7AQRCYRdWD3fTq+cDg8v5TfWD+Mi1wJHkZe1AFpJtAFJtBQ==
+ledger 25words pass: old phone numbers pass 301...
+ledger 25th word: pass
+ledger 24 words pass: 40s
+
+keys info: 
+    Encryption alghorithm: AES
+    Encryption pass: pass capf symba + nums from 1 to 4
+    Cipher mode of encryption: ECB
+    ! the two equal signs at the end are important and everything should be on one line without spaces !
+    ! make sure you decode to plain text !
+    ! online decriptors: 
+        - https://anycript.com/
+        - https://www.devglan.com/online-tools/aes-encryption-decryption
+        - https://the-x.cn/en-US/cryptography/Aes.aspx
+        - https://anycript.com/

@@ -1,0 +1,2999 @@
+anaranjado-orange
+amarillo-yellow
+gris-gray
+azul-blue
+el marrón-brown
+el oro-gold
+decir-to say
+rosado-pink
+la plata-silver
+el novio-boyfriend
+tener-to have
+pedir-to ask for
+querer-to want
+tomar-to take
+tranquilo-calm
+volver-to return
+joven-young
+aburrido-boring
+rico-rich
+doler-to hurt
+el café-coffee
+el campo-countryside
+empezar-to start
+la tienda-store
+sobre-on
+ver-to see
+poner-to put
+grande-big
+levantarse-to get up
+pagar-to pay
+seguro-sure
+la cocina-kitchen
+el mes-month
+divertido-fun
+la ropa-clothing
+el agua-water
+el febrero-February
+la película-film
+el enero-January
+el julio-July
+el mayo-May
+el marzo-March
+el octubre-October
+el agosto-August
+el junio-June
+el diciembre-December
+el verano-summer
+la semana-week
+la primavera-spring
+el otoño-fall
+el invierno-winter
+la estación-season
+el jueves-Thursday
+el miércoles-Wednesday
+el viernes-Friday
+perder-to lose
+mucho-a lot of
+alguien-someone
+también-also
+acostarse-to go to bed
+la mesa-table
+la bolsa-bag
+la empresa-company
+bailar-to dance
+conocer-to know
+llegar-to arrive
+la contaminación-pollution
+alguno-some
+deber-should
+el bosque-forest
+dormir-to sleep
+contar-to tell
+pequeño-small
+después-after
+simpático-nice
+la silla-chair
+gastar-to spend
+contento-happy
+rojo-red
+blanco-white
+negro-black
+hacer-to do
+el color-color
+morado-purple
+salir-to go out
+hablar-to speak
+poder-to be able to
+el cine-movie theater
+ir-to go
+la comida-food
+comer-to eat
+saber-to know
+la música-music
+vivir-to live
+estar-to be
+el septiembre-September
+el abril-April
+el noviembre-November
+el domingo-Sunday
+el sábado-Saturday
+el lunes-Monday
+el martes-Tuesday
+ser-to be
+la casa-house
+verde-green
+trabajador-hardworking
+el pescado-fish
+el actor-actor
+el centro comercial-mall
+el mercado-market
+nunca-never
+el horario-schedule
+ayer-yesterday
+hoy-today
+mañana-tomorrow
+el fin de semana-weekend
+antes-before
+anoche-last night
+el día-day
+el año-year
+la chaqueta-jacket
+tímido-shy
+el médico-doctor
+la historia-history
+el banco-bank
+el medio ambiente-environment
+el policía-police officer
+el escritor-writer
+la actriz-actress
+el sofá-sofa
+buscar-to look for
+leer-to read
+siempre-always
+bueno-good
+descansar-to rest
+estudiar-to study
+ganar-to win
+tampoco-neither
+alto-tall
+la mano-hand
+dulce-sweet
+el armario-wardrobe
+la camiseta-T-shirt
+inteligente-intelligent
+el teatro-theater
+el profesor-teacher
+el premio-prize
+la naturaleza-nature
+el museo-museum
+nervioso-nervous
+escribir-to write
+jugar-to play
+el español-Spanish
+gustar-to like
+viajar-to travel
+luego-then
+beber-to drink
+triste-sad
+terminar-to end
+qué-what
+la mujer-woman
+el partido-game
+la calle-street
+ducharse-to take a shower
+el cuadro-painting
+el trabajo-work
+el niño-child
+el hermano-brother
+el abogado-lawyer
+la cabeza-head
+el equipo-team
+el brazo-arm
+la abuela-grandmother
+la pierna-leg
+el padre-father
+el arroz-rice
+el pollo-chicken
+el precio-price
+el ingeniero-engineer
+el tenis-tennis
+el gimnasio-gym
+reciclar-to recycle
+el televisor-television
+el restaurante-restaurant
+el arte-art
+la lámpara-lamp
+el río-river
+llevar-to take
+seguir-to follow
+conseguir-to get
+comprar-to buy
+correr-to run
+algo-something
+ponerse-to put on
+vestirse-to get dressed
+porque-because
+bañarse-to take a bath
+bajo-short
+cocinar-to cook
+tarde-late
+el tiempo-time
+la hora-hour
+la fecha-date
+el mediodía-noon
+la medianoche-midnight
+la mañana-morning
+la hora-time
+el siglo-century
+la gente-people
+guapo-handsome
+nadie-no one
+necesitar-to need
+el pan-bread
+la puerta-door
+la cama-bed
+la ciudad-city
+caro-expensive
+la salud-health
+bonito-pretty
+rubio-blond
+la piscina-swimming pool
+la boca-mouth
+el coche-car
+feo-ugly
+ahorrar-to save
+ir de compras-to go shopping
+el pastel-cake
+cómodo-comfortable
+difícil-difficult
+el papel-paper
+el dinero-money
+resolver-to solve
+el plato-plate
+otro-other
+la leche-milk
+la madre-mother
+la escalera-stairs
+cuál-which
+el director-director
+el deporte-sport
+el concurso-competition
+la librería-bookstore
+la bebida-drink
+el tomate-tomato
+funcionar-to work
+el concierto-concert
+esperar-to wait for
+mirar-to look at
+el lugar-place
+trabajar-to work
+demasiado-too
+preferir-to prefer
+cantar-to sing
+probar-to taste
+nadar-to swim
+compartir-to share
+el país-country
+el pie-foot
+molestar-to bother
+el inglés-English
+la cena-dinner
+descubrir-to discover
+la hermana-sister
+el libro-book
+la escuela-school
+la pareja-couple
+la carne-meat
+el mar-sea
+la falda-skirt
+la playa-beach
+serio-serious
+la iglesia-church
+proteger-to protect
+el gerente-manager
+el cantante-singer
+la salida-exit
+la entrada-entrance
+la señora-ma'am
+el parque-park
+la nariz-nose
+el abuelo-grandfather
+interesante-interesting
+el amigo-friend
+paciente-patient
+la lata-can
+el ojo-eye
+el huevo-egg
+la pintura-painting
+el bombero-firefighter
+los padres-parents
+el pintor-painter
+el supermercado-supermarket
+la política-politics
+la energía-energy
+encontrar-to find
+pensar-to think
+quedar-to be left
+tocar-to touch / svirq na instrument
+todavía-still
+además-besides
+bastante-enough
+mayor-older
+entre-between
+cenar-to have dinner
+llover-to rain
+costar-to cost
+moreno-dark-haired
+discutir-to discuss
+malo-bad
+fácil-easy
+la mochila-backpack
+desayunar-to have breakfast
+pintar-to paint
+largo-long
+el postre-dessert
+el barrio-neighborhood
+mejorar-to improve
+la biblioteca-library
+el árbol-tree
+peligroso-dangerous
+la clase-class
+el jardín-garden
+abierto-open
+la rodilla-knee
+el periodista-journalist
+la sal-salt
+el señor-sir
+la luz-light
+la lechuga-lettuce
+recomendar-to recommend
+la natación-swimming
+el lago-lake
+la población-population
+el pez-fish
+delante de-in front of
+el centro-center
+antiguo-old
+el fútbol-soccer
+la enfermedad-illness
+el anuncio-advertisement
+el refresco-soda
+el entrenador-coach
+el empleo-employment
+el enfermero-nurse
+la montaña-mountain
+la fruta-fruit
+el arquitecto-architect
+la profesión-profession
+el estómago-stomach
+el político-politician
+llevar-to wear
+cuando-when
+por-because of
+aprender-to learn
+creer-to believe
+entonces-then
+desde-from
+caminar-to walk
+despertarse-to wake up
+ayudar-to help
+viejo-old
+vender-to sell
+morir-to die
+la hija-daughter
+recordar-to remember
+amable-kind
+el hotel-hotel
+el desayuno-breakfast
+el perro-dog
+dibujar-to draw
+caerse-to fall
+el hospital-hospital
+el hombre-man
+el tío-uncle
+el traje-suit
+el vestido-dress
+el espejo-mirror
+el comedor-dining room
+el cuello-neck
+por qué-why
+el regalo-present
+de repente-suddenly
+el helado-ice cream
+el periódico-newspaper
+antipático-unfriendly
+la pared-wall
+sucio-dirty
+el aceite-oil
+el jefe-boss
+la manzana-apple
+explicar-to explain
+la pantalla-screen
+el animal-animal
+el gato-cat
+el camarero-waiter
+la selva-jungle
+la entrevista-interview
+la chica-girl
+la guerra-war
+la naranja-orange
+ninguno-none of
+el desarrollo-development
+la costumbre-custom
+limpio-clean
+la fiesta-party
+el queso-cheese
+la gripe-flu
+el dependiente-salesclerk
+la toalla-towel
+la flor-flower
+picante-hot
+pasar la aspiradora-to vacuum
+la familia-family
+debajo de-under
+la ensalada-salad
+la farmacia-pharmacy
+la pastilla-pill
+la tía-aunt
+la verdura-vegetable
+la tecnología-technology
+la cafetería-café
+dar-to give
+traer-to bring
+para-for
+abrir-to open
+llamar-to call
+enseñar-to teach
+quedarse-to stay
+hasta-until
+recibir-to receive
+enviar-to send
+recoger-to pick up
+en-in
+sin embargo-however
+desear-to want
+romper-to break
+cambiar-to change
+apagar-to turn off
+fuerte-strong
+alegre-happy
+delgado-thin
+el hijo-son
+la red-network
+casarse-to get married
+barato-cheap
+el abrigo-coat
+el piso-floor
+la camisa-shirt
+esquiar-to ski
+peinarse-to comb one's hair
+dormirse-to fall asleep
+la maleta-suitcase
+o-or
+la ventana-window
+durante-during
+nuevo-new
+el cuerpo-body
+la corbata-tie
+el barco-boat
+el pájaro-bird
+la canción-song
+el maestro-teacher
+el jabón-soap
+solicitar-to request
+el sillón-armchair
+sano-healthy
+la tos-cough
+la plaza-square
+el baloncesto-basketball
+pasarlo bien-to have a good time
+el chico-kiddes
+el examen-exam
+detrás de-behind
+el autobús-bus
+el cocinero-cook
+hacer ejercicio-to exercise
+la seguridad-safety
+la botella-bottle
+la universidad-university
+el aeropuerto-airport
+responsable-responsible
+la oficina-office
+hacer la cama-to make the bed
+el mecánico-mechanic
+el champú-shampoo
+la excursión-excursion
+moderno-modern
+el artista-artist
+la hamburguesa-hamburger
+gafas de sol-sunglasses
+la literatura-literature
+el monumento-monument
+la comedia-comedy
+el secretario-secretary
+el público-audience
+la tarjeta de crédito-credit card
+el cajero automático-ATM
+hola-hello
+entender-to understand
+el número-number
+cero-zero
+uno-one
+dos-two
+tres-three
+cuatro-four
+cinco-five
+seis-six
+siete-seven
+ocho-eight
+nueve-nine
+diez-ten
+once-eleven
+doce-twelve
+trece-thirteen
+el catorce-fourteen
+quince-fifteen
+dieciséis-sixteen
+diecisiete-seventeen
+el dieciocho-eighteen
+el diecinueve-nineteen
+veinte-twenty
+escuchar-to listen to
+conducir-to drive
+cerrar-to close
+servir-to serve
+comenzar-to begin
+lo siento-I'm sorry
+pasear-to go for a walk
+el amor-love
+contestar-to answer
+cansado-tired
+olvidar-to forget
+nada-nothing
+visitar-to visit
+la sala-living room
+solo-alone
+el corazón-heart
+manejar-to drive
+repetir-to repeat
+irse-to leave
+el cuaderno-notebook
+el primo-cousin
+patinar-to skate
+la prueba-test
+el viaje-trip
+afeitarse-to shave
+la cita-appointment
+practicar-to practice
+quién-who
+menos-less
+el baño-bathroom
+la tierra-land
+la vida-life
+el cereal-cereal
+corto-short
+la sobrina-niece
+el dueño-owner
+el azúcar-sugar
+el avión-plane
+la llave-key
+la alfombra-rug
+la amistad-friendship
+la sopa-soup
+la cebolla-onion
+la mantequilla-butter
+la gorra-cap
+el sueldo-salary
+la piedra-stone
+veintiuno-twenty-one
+veintidós-twenty-two
+veintitrés-twenty-three
+veinticuatro-twenty-four
+veinticinco-twenty-five
+veintiséis-twenty-six
+veintisiete-twenty-seven
+veintiocho-twenty-eight
+el veintinueve-twenty-nine
+el treinta-thirty
+cuarenta-forty
+cincuenta-fifty
+sesenta-sixty
+setenta-seventy
+ochenta-eighty
+noventa-ninety
+cien-one hundred
+ciento uno-one hundred and one
+doscientos-two hundred
+trescientos-three hundred
+cuatrocientos-four hundred
+quinientos-five hundred
+seiscientos-six hundred
+el setecientos-seven hundred
+ochocientos-eight hundred
+novecientos-nine hundred
+mil-thousand
+dos mil-two thousand
+cien mil-one hundred thousand
+doscientos mil-two hundred thousand
+el millón-million
+justo-fair
+anteayer-the day before yesterday
+la zanahoria-carrot
+el alimento-food
+pelirrojo-red-haired
+el tenedor-fork
+cuándo-when
+el empleado-employee
+el jamón-ham
+valiente-brave
+el ratón-mouse
+tomar el sol-to sunbathe
+cerrado-closed
+la manta-blanket
+cuánto-how much
+reducir-to reduce
+el tren-train
+el sombrero-hat
+el problema-problem
+el contador-accountant
+el clima-climate
+el teléfono-telephone
+el metro-metro
+dónde-where
+la compañía-company
+el mapa-map
+el pantalón-pants
+la uva-grape
+el científico-scientist
+el jugador-player
+el oeste-west
+desordenado-untidy
+la artesanía-crafts
+la galleta-cookie
+la vivienda-housing
+el zapato-shoe
+el peluquero-hairdresser
+la bota-boot
+el cliente-customer
+los abuelos-grandparents
+la actuación-performance
+la zapatería-shoe store
+las matemáticas-mathematics
+el tiempo libre-free time
+la danza-dance
+importante-important
+la reunión-meeting
+contaminar-to pollute
+el yogur-yogurt
+la cultura-culture
+el pasaporte-passport
+el voleibol-volleyball
+el músico-musician
+escuchar música-to listen to music
+el documental-documentary
+venir-to come
+mejor-better
+como-like
+dejar-to leave
+oír-to hear
+gracias-thank you
+pero-but
+ya-already
+regresar-to return
+este-this
+la cuenta-check
+ahora-now
+con-with
+sentirse-to feel
+el cumpleaños-birthday
+perezoso-lazy
+listo-ready
+añadir-to addna
+el pueblo-town
+a menudo-often
+nacer-to be born
+el sobrino-nephew
+dirigir-to run
+el almuerzo-lunch
+el apellido-last name
+el lápiz-pencil
+la carrera-career
+el idioma-language
+ofrecer-to offer
+el nombre-name
+el escritorio-desk
+muy-very
+el dolor-pain
+tal vez-maybe
+la pelota-ball
+luchar-to fight
+primero-first
+segundo-second
+tercero-third
+cuarto-fourth
+quinto-fifth
+sexto-sixth
+séptimo-seventh
+octavo-eighth
+noveno-ninth
+décimo-tenth
+la vergüenza-shame
+el consejo-advice
+el cuchillo-knife
+perdón-excuse me
+la carretera-road
+obtener-to obtain
+mal-bad
+el bolígrafo-pen
+el ajo-garlic
+el estudiante-student
+sabroso-tasty
+actuar-to act
+el drama-drama
+la llegada-arrival
+la garganta-throat
+la estrella-star
+el estadio-stadium
+la pimienta-pepper
+invitar-to invite
+competir-to compete
+el deportista-athlete
+la blusa-blouse
+enamorarse-to fall in love
+el maíz-corn
+el ordenador-computer
+el terremoto-earthquake
+el diseño-design
+la imagen-image
+el paquete-package
+elegante-elegant
+por ejemplo-for example
+la medicina-medicine
+el desierto-desert
+el espectáculo-show
+el béisbol-baseball
+el té-tea
+la escultura-sculpture
+la joyería-jewelry store
+el artículo-article
+la igualdad-equality
+la educación-education
+el apartamento-apartment
+el bailarín-dancer
+el reciclaje-recycling
+el escultor-sculptor
+el francés-French
+el voluntario-volunteer
+la pasta de dientes-toothpaste
+el producto-product
+histórico-historical
+buenas noches-good night
+allá-there
+la noche-night
+el juego-game
+el videojuego-video game
+la agencia de viajes-travel agency
+sacar-to take out
+divertirse-to have fun
+bien-well
+lograr-to achieve
+casi-almost
+usar-to use
+cuidar-to take care of
+la cara-face
+la tarea-homework
+sin-without
+el pelo-hair
+feliz-happy
+guardar-to save
+poco-little
+enojado-angry
+llenar-to fill
+el reloj-watch
+cruzar-to cross
+gordo-fat
+preparar-to prepare
+peor-worse
+la habitación-room
+desarrollar-to develop
+el caballo-horse
+la basura-trash
+el correo-mail
+el ruido-noise
+el nieto-grandson
+el paisaje-landscape
+pobre-poor
+la esposa-wife
+lento-slow
+el pasillo-hall
+la cosa-thing
+la revista-magazine
+el esposo-husband
+nevar-to snow
+la cuchara-spoon
+la estufa-stove
+odiar-to hate
+regatear-to bargain
+grabar-to record
+sorprender-to surprise
+cerca de-close to
+antes de-before
+no-no
+sí-yes
+el pavo-turkey
+pesado-heavy
+cada-each
+mi-my
+todo-all
+allí-there
+cerca-close
+lejos-far
+tanto-so much
+tan-so
+haber-to have
+mucho gusto-nice to meet you
+feliz cumpleaños-happy birthday
+aunque-even though
+mientras-while
+si-if
+y-and
+pues-well
+parecer-to seem
+almorzar-to have lunch
+disfrutar-to enjoy
+bajar-to go down
+asistir-to attend
+caer-to fall
+caber-to fit
+reír-to laugh
+el miedo-fear
+la pizza-pizza
+el chocolate-chocolate
+la verdad-truth
+el puesto-position
+la voz-voice
+el sonido-sound
+el traductor-translator
+la pronunciación-pronunciation
+el cuarto-room
+el doctor-doctor
+el tiempo-weather
+según-according to
+de-from
+de-of
+quejarse-to complain
+contigo-with you
+quien-who
+sentarse-to sit
+temprano-early
+pasar-to pass
+traducir-to translate
+ganar-to earn
+limpiar-to clean
+pasar-to happen
+tratar-to treat
+escoger-to choose
+devolver-to return
+parar-to stop
+echar-to throw
+sentir-to feel
+quitar-to take away
+entregar-to turn in
+acabar-to finish
+alcanzar-to reach
+de nada-you're welcome
+por favor-please
+a-to
+las cosas-things
+ordenar-to order
+la prisa-hurry
+arriba-up
+la idea-idea
+oye-hey
+el mango-mango
+la ola-wave
+el deseo-wish
+la cola-tail
+acercarse-to approach
+el conejo-rabbit
+ambos-both
+golpear-to hit
+el propósito-purpose
+perdido-lost
+la lista-list
+la China-China
+fingir-to pretend
+el palo-stick
+rezar-to pray
+legal-legal
+animar-to encourage
+asustado-scared
+la siesta-nap
+soso-bland
+el cordero-lamb
+la cosecha-harvest
+el cajón-drawer
+morder-to bite
+la traducción-translation
+perseguir-to pursue
+exigente-demanding
+cualquiera-any
+el pedazo-piece
+empujar-to push
+el tesoro-treasure
+común-common
+el bolsillo-pocket
+la disculpa-apology
+asombroso-amazing
+mojado-wet
+el favor-favor
+coser-to sew
+Australia-Australia
+el tocino-bacon
+ciego-blind
+el sustantivo-noun
+Estados Unidos-United States
+el coco-coconut
+el alemán-German
+el dedo-finger
+los hijos-children
+celebrar-to celebrate
+callado-silent
+dañar-to damage
+la oreja-ear
+saludable-healthy
+el equipaje-luggage
+raro-weird
+el alojamiento-accommodations
+durar-to last
+el gobierno-government
+el ascensor-elevator
+dejar de-to stop
+sociable-sociable
+la lavadora-washing machine
+el teclado-keyboard
+la tormenta-storm
+las noticias-news
+el sendero-path
+ordenado-tidy
+el sur-south
+poner la mesa-to set the table
+el conductor-driver
+insistir-to insist
+el atún-tuna
+la computadora-computer
+el programa-program
+la planta-plant
+el vendedor-salesperson
+sacar la basura-to take out the trash
+el canal-channel
+el pasatiempo-hobby
+la oferta-offer
+la pobreza-poverty
+la libertad-freedom
+el destino-destination
+delicioso-delicious
+animado-lively
+el anfitrión-host
+por la mañana-in the morning
+el garaje-garage
+impaciente-impatient
+investigar-to investigate
+la novela-novel
+el guía-guide
+la obra de teatro-play
+después de-after
+el dentista-dentist
+practicar deportes-to play sports
+la calculadora-calculator
+el huracán-hurricane
+la fábrica-factory
+la arquitectura-architecture
+el transporte-transportation
+romántico-romantic
+clásico-classical
+el menú-menu
+que-that
+esperar-to hope
+subir-to go up
+andar-to walk
+mandar-to send
+el este-east
+cómo-how
+mostrar-to show
+aquí-here
+lavar-to wash
+encantar-to love
+prestar-to lend
+arreglar-to fix
+mismo-same
+sonar-to ring
+la palabra-word
+ojalá-hopefully
+comprender-to understand
+preguntar-to ask
+evitar-to avoid
+cortar-to cut
+la carta-letter
+el reloj-clock
+más-mor
+landbuenas tardes-good afternoon
+el vuelo-flight
+el sol-sun
+cariñoso-affectionate
+el puente-bridge
+enfermo-sick
+despedirse-to say goodbye
+rápido-fast
+sugerir-to suggest
+adiós-goodbye
+la caja-cash register
+la Tierra-Earth
+bucear-to scuba dive
+la fuente-fountain
+descargar-to download
+el edificio-building
+la taza-cup
+el vecino-neighbor
+permitir-to allow
+la capital-capital
+caliente-hot
+la cartera-wallet
+el vaso-glass
+la esquina-corner
+destruir-to destroy
+el radio-radio
+horrible-horrible
+la espalda-back
+el diccionario-dictionary
+la lluvia-rain
+grave-serious
+pescar-to fish
+enojarse-to get angry
+ocupado-busy
+importar-to matter
+atrevido-daring
+por fin-finally
+el tobillo-ankle
+el cinturón-belt
+la talla-size
+revisar-to review
+preocupado-worried
+el horno-oven
+relajarse-to relax
+ancho-wide
+la fiebre-fever
+la medida-measurement
+la confianza-trust
+el suéter-sweater
+acampar-to camp
+el oído-ear
+la moneda-coin
+el técnico-technician
+la paz-peace
+diario-daily
+la señorita-miss
+el despertador-alarm clock
+invertir-to invest
+la bicicleta-bicycle
+presentar-to introduce
+el presupuesto-budget
+el vidrio-glass
+adelgazar-to lose weight
+el ajedrez-chess
+respirar-to breathe
+prohibir-to prohibit
+quizá-maybe
+la nieta-granddaughter
+aburrirse-to be bored
+lejos de-far from
+sensible-sensitive
+el traje de baño-bathing suit
+buenos días-good morning
+el casco-helmet
+el bistec-steak
+el baile-dance
+graduarse-to graduate
+el billete-ticket
+dentro de-inside
+la cámara-camera
+tener miedo-to be afraid
+el pasajero-passenger
+la sequía-drought
+emocionante-exciting
+levantar pesas-to lift weights
+el calcetín-sock
+el matrimonio-marriage
+el maquillaje-makeup
+el lavaplatos-dishwasher
+normalmente-normally
+la impresora-printer
+el valle-valley
+el mueble-furniture
+el guante-glove
+el síntoma-symptom
+la telenovela-soap opera
+frío-cold
+lavar los platos-to wash the dishes
+sacar fotos-to take photos
+el ciclismo-cycling
+el refrigerador-refrigerator
+la fotografía-photography
+la sociedad-society
+el petróleo-oil
+el movimiento-movement
+el género-gender
+la experiencia-experience
+el norte-north
+divorciarse-to get divorced
+el marisco-seafood
+la geografía-geography
+la economía-economy
+el océano-ocean
+el blog-blog
+el fotógrafo-photographer
+la orquesta-orchestra
+la televisión-television
+tradicional-traditional
+de niño-as a child
+creativo-creative
+el cartón-cardboard
+el cepillo de dientes-toothbrush
+llevarse mal-to get along badly
+el reportero-reporter
+el hombre de negocios-businessman
+el calentamiento global-global warming
+el tráfico-traffic
+la ciencia ficción-science fiction
+apenas-barely
+mentir-to lie
+llorar-to cry
+elegir-to choose
+el pasado-past
+la obra-work
+hermoso-beautiful
+el tema-subject
+crecer-to grow
+el mundo-world
+gritar-to shout
+tener que-to have to
+nuestro-our
+doblar-to turn
+el almacén-store
+la lengua-language
+extranjero-foreign
+el taller-workshop
+buenas noches-good evening
+pronto-soon
+menor-younger
+la receta-prescription
+el vino-wine
+el mono-monkey
+la boda-wedding
+temer-to fear
+el gusto-taste
+el golf-golf
+duro-hard
+oscuro-dark
+el Internet-Internet
+cómico-funny
+navegar-to sail
+el recuerdo-memory
+acordarse-to remember
+la piel-skin
+la calidad-quality
+saludar-to greet
+el resfriado-cold
+el ensayo-essay
+el jugo-juice
+emocionado-excited
+la alegría-joy
+fiel-faithful
+cazar-to hunt
+la vela-candle
+bello-beautiful
+el boleto-ticket
+el semáforo-traffic light
+el dormitorio-bedroom
+el hockey-hockey
+la contraseña-password
+las gafas-glasses
+dudar-to doubt
+normal-normal
+el plátano-banana
+disminuir-to decrease
+la química-chemistry
+la fresa-strawberry
+el cajero-cashier
+el bolso-bag
+ensayar-to rehearse
+el sello-stamp
+el personaje-character
+la cómoda-chest of drawers
+la muerte-death
+la taquilla-box office
+sincero-sincere
+la servilleta-napkin
+el bienestar-well-being
+el musical-musical
+el castillo-castle
+hacer cola-to get in line
+la ley-law
+el estreno-premiere
+el incendio-fire
+generoso-generous
+asar-to roast
+la inundación-flood
+la piña-pineapple
+el enlace-link
+la informática-computing
+flexible-flexible
+jubilarse-to retire
+el consejero-counselor
+el limón-lemon
+el juguete-toy
+suficiente-enough
+denunciar-to report
+montar a caballo-to ride a horse
+anunciar-to announce
+increíble-incredible
+el servicio-service
+la relación-relationship
+la nacionalidad-nationality
+la poesía-poetry
+la banda-band
+la campaña-campaign
+el diseñador-designer
+frito-fried
+el ejército-army
+tener hambre-to be hungry
+el quiosco-kiosk
+la batería-battery
+publicar-to publish
+el turista-tourist
+la comunidad-community
+montar en bicicleta-to ride a bicycle
+hacer un viaje-to take a trip
+el desempleo-unemployment
+famoso-famous
+el argumento-argument
+el descubrimiento-discovery
+el invitado-guest
+artístico-artistic
+el planeta-planet
+la patata-potato
+la dieta-diet
+consumir-to consume
+vuestro-your
+tener razón-to be right
+el frijol-bean
+la estatua-statue
+la información-information
+el crimen-crime
+inseguro-insecure
+el laboratorio-laboratory
+el vinagre-vinegar
+comunicarse-to communicate
+la cerámica-pottery
+el agricultor-farmer
+el título-title
+económico-economic
+el mexicano-Mexican
+la mayonesa-mayonnaise
+la responsabilidad-responsibility
+organizado-organized
+el electricista-electrician
+ir de vacaciones-to go on vacation
+el plástico-plastic
+el recurso natural-natural resource
+la violencia-violence
+el divorcio-divorce
+la deforestación-deforestation
+jugar al fútbol-to play soccer
+pasarlo mal-to have a bad time
+el salmón-salmon
+el fútbol americano-American football
+fuera-outside
+decidir-to decide
+despedir-to fire
+encender-to turn on
+el carro-car
+crear-to create
+agradable-nice
+apoyar-to support
+el cuento-story
+débil-weak
+el hogar-home
+aguantar-to put up with
+encantado-delighted
+la papa-potato
+el compañero-companion
+aconsejar-to advise
+negar-to deny
+el cerdo-pig
+vencer-to defeat
+la madera-wood
+el borrador-eraser
+fresco-fresh
+freír-to fry
+reconocer-to recognize
+la respuesta-response
+hervir-to boil
+loco-crazy
+la pluma-pen
+enamorado-in love
+el asiento-seat
+el sótano-basement
+la tarjeta-card
+la lana-wool
+la cerveza-beer
+soltero-single
+interesar-to interest
+desaparecer-to disappear
+capaz-able
+robar-to steal
+el video-video
+la merienda-snack
+planchar-to iron
+la letra-letter
+el curso-course
+producir-to produce
+el acontecimiento-event
+la amenaza-threat
+el taxi-taxi
+fumar-to smoke
+la almohada-pillow
+la propina-tip
+la bufanda-scarf
+la rosa-rose
+obedecer-to obey
+la moda-fashion
+celoso-jealous
+el aficionado-fan
+toser-to cough
+el nacimiento-birth
+el hombro-shoulder
+la persona-person
+la solicitud-application
+el jarabe-syrup
+la pera-pear
+ir a-to go to
+la mayoría-majority
+la tortuga-turtle
+el impermeable-raincoat
+el jersey-sweater
+promover-to promote
+útil-useful
+el puerto-port
+la prensa-press
+el peine-comb
+el buzón-mailbox
+la alimentación-food
+la panadería-bakery
+estrecho-narrow
+social-social
+el cartero-mailman
+la pulsera-bracelet
+la juventud-youth
+llevarse bien-to get along
+la avenida-avenue
+próximo-next
+la peluquería-hairdresser's
+estudioso-studious
+el móvil-cellphone
+el padrastro-stepfather
+la costa-coast
+la vejez-old age
+frecuentemente-frequently
+la salchicha-sausage
+la papelera-wastepaper basket
+la isla-island
+la serpiente-snake
+la madrastra-stepmother
+formal-formal
+el carácter-character
+cocer-to cook
+el viajero-traveler
+el esquí-skiing
+favorito-favorite
+el ciudadano-citizen
+la cima-summit
+la competencia-competition
+el estrés-stress
+engordar-to gain weight
+perjudicar-to be detrimental to
+adónde-where
+el error-mistake
+el folleto-brochure
+el gesto-gesture
+el hermanastro-stepbrother
+la ciencia-science
+comprometerse-to get engaged
+vanidoso-vain
+aplaudir-to applaud
+el balcón-balcony
+activo-active
+la especie-species
+el contrato-contract
+controlar-to control
+la publicidad-advertising
+pedir prestado-to borrow
+tocar la guitarra-to play the guitar
+el correo electrónico-email
+el volcán-volcano
+hablar por teléfono-to talk on the phone
+realista-realistic
+la desigualdad-inequality
+la memoria-memory
+pantalones cortos-shorts
+el árbitro-referee
+el veterinario-veterinarian
+quitar la mesa-to clear the table
+el beneficio-profit
+los dibujos animados-cartoons
+desodorante-deodorant
+complicado-complicated
+el aspirante-applicant
+el consumo-consumption
+la pensión-pension
+el habitante-inhabitant
+la alergia-allergy
+la justicia-justice
+salir con-to go out with
+la gasolina-gasoline
+el recepcionista-receptionist
+la ecología-ecology
+la invitación-invitation
+disfrutar de-to enjoy
+la electricidad-electricity
+la sandalia-sandal
+la región-region
+el agente de viajes-travel agent
+contaminado-contaminated
+hacer deporte-to practice sports
+el consumidor-consumer
+la mujer de negocios-businesswoman
+la educación física-physical education
+la cuenta de ahorros-savings account
+la discriminación-discrimination
+ver películas-to watch movies
+ver la televisión-to watch television
+cepillarse los dientes-to brush one's teeth
+muy bien-very good
+claro-clear
+la edad-age
+mantener-to hold
+construir-to build
+saltar-to jump
+la carrera-race
+por supuesto-of course
+la pasta-pasta
+el sueño-dream
+exigir-to demand
+amar-to love
+genial-great
+el cielo-sky
+el calor-heat
+cobrar-to charge for
+despacio-slowly
+mudarse-to move
+el hambre-hunger
+orgulloso-proud
+quitarse-to take off
+la nieve-snow
+el cuñado-brother-in-law
+aparecer-to appear
+lleno-full
+maquillarse-to put on makeup
+aumentar-to increase
+casado-married
+estadounidense-American
+el fuego-fire
+la cuñada-sister-in-law
+el estilo-style
+abrazar-to hug
+la dirección-address
+borrar-to delete
+la foto-photo
+el cuero-leather
+terrible-terrible
+regular-regular
+amenazar-to threaten
+el muchacho-boy
+el paraguas-umbrella
+la carpeta-folder
+la clave-key
+el codo-elbow
+besar-to kiss
+el algodón-cotton
+el estante-shelf
+el anillo-ring
+mezclar-to mix
+el sabor-flavor
+confiar-to confide
+aterrizar-to land
+seco-dry
+el negocio-business
+convertirse en-to turn into
+la sangre-blood
+alegrarse-to be happy
+el hueso-bone
+imprimir-to print
+el conocimiento-knowledge
+el ayuntamiento-city council
+el aumento-increase
+fascinar-to fascinate
+tener sed-to be thirsty
+el huésped-guest
+la harina-flour
+estupendo-great
+proponer-to propose
+el compromiso-commitment
+el cepillo-brush
+la huelga-strike
+la lucha-fight
+familiar-family
+España-Spain
+describir-to describe
+el bote-boat
+agrio-sour
+batir-to beat
+la acera-sidewalk
+la salsa-sauce
+asado-grilled
+el pariente-relative
+la temporada-season
+el aire-air
+vago-lazy
+el material-material
+la luna-moon
+el coro-choir
+mareado-dizzy
+el discurso-speech
+el juez-judge
+el ritmo-rhythm
+la escala-stopover
+la discoteca-nightclub
+el indígena-native
+la factura-invoice
+la contabilidad-accounting
+prevenir-to prevent
+romperse-to break
+la grasa-fat
+conversar-to talk
+la moto-motorcycle
+salado-salty
+la cuadra-block
+la asignatura-subject
+el alquiler-rent
+la ventanilla-window
+el impuesto-tax
+precioso-precious
+a tiempo-on time
+el proyecto-project
+valorar-to value
+sudar-to sweat
+el espacio-space
+la acción-action
+el grado-degree
+la exposición-exhibition
+comprensivo-understanding
+enorme-enormous
+ambicioso-ambitious
+interpretar-to interpret
+el empresario-businessman
+anciano-elderly
+crudo-raw
+el microondas-microwave
+el guion-script
+redondo-round
+decorar-to decorate
+el campamento-camp
+la serie-series
+quitar el polvo-to dust
+el cheque-check
+la joya-piece of jewelry
+el campeón-champion
+la manifestación-demonstration
+kilo-kilo
+ir al cine-to go to the movies
+el carpintero-carpenter
+la infancia-childhood
+húmedo-humid
+el descuento-discount
+el bebé-baby
+el archivo-file
+lujoso-luxurious
+el autor-author
+el japonés-Japanese
+la computación-computer science
+comentar-to discuss
+la inyección-injection
+el palacio-palace
+la aventura-adventure
+la carne de res-beef
+la actividad-activity
+chatear-to chat
+el requisito-requirement
+tener calor-to be hot
+más o menos-more or less
+el dolor de cabeza-headache
+el congelador-freezer
+el funcionario-civil servant
+curioso-curious
+el equilibrio-balance
+el usuario-user
+el taxista-taxi driver
+la hermanastra-stepsister
+el itinerario-itinerary
+informal-informal
+talentoso-talented
+el argentino-Argentinian
+el poeta-poet
+la ropa interior-underwear
+la solución-solution
+divorciado-divorced
+barrer el suelo-to sweep the floor
+la gamba-shrimp
+el salario-salary
+tener éxito-to be successful
+el idealista-idealist
+la raqueta-racket
+el efecto invernadero-greenhouse effect
+la droga-drug
+la gasolinera-gas station
+el frigorífico-refrigerator
+la cuenta corriente-checking account
+nutritivo-nutritious
+ganarse la vida-to earn a living
+los fuegos artificiales-fireworks
+el defecto-defect
+tomar fotos-to take pictures
+la sanidad-health
+ecológico-ecological
+el antibiótico-antibiotic
+la agricultura-agriculture
+el punto de vista-point of view
+el músculo-muscle
+la industria-industry
+violento-violent
+la protección-protection
+la parada de autobús-bus stop
+la destrucción-destruction
+el medio de transporte-means of transport
+el sitio web-website
+tener frío-to be cold
+el crítico-critic
+la crítica-criticism
+escalar montañas-to climb mountains
+la habitación doble-double room
+la cámara digital-digital camera
+la estación de autobuses-bus station
+la página web-web page
+hacia-toward
+igualmente-likewise
+levantar-to lift
+la prima-cousin
+el suelo-ground
+la banana-banana
+el camino-road
+coger-to take
+tirar-to throw
+volar-to fly
+faltar-to miss
+alquilar-to rent
+aprovechar-to take advantage of
+pegar-to paste
+la muñeca-wrist
+popular-popular
+gracioso-funny
+la época-period
+disponible-available
+México-Mexico
+el viento-wind
+de acuerdo-okay
+colocar-to place
+pelear-to fight
+esconder-to hide
+regalar-to give
+la receta-recipe
+matar-to kill
+soñar-to dream
+arrancar-to start
+el oso-bear
+conmigo-with me
+igual-equal
+la vaca-cow
+la frente-forehead
+recorrer-to travel around
+la pizarra-chalkboard
+suponer-to suppose
+la olla-pot
+preocuparse-to worry
+el ambiente-environment
+vivo-alive
+la esperanza-hope
+llamarse-to be called
+la niña-girl
+medir-to measure
+la Argentina-Argentina
+aburrir-to bore
+el mensaje-message
+la copa-glass
+charlar-to chat
+muchas gracias-thank you very much
+responder-to answer
+el patio-patio
+travieso-naughty
+el peso-weight
+tratar de-to try
+el apoyo-support
+la ducha-shower
+abordar-to board
+el collar-necklace
+asegurar-to assure
+el cartel-poster
+egoísta-selfish
+el lavabo-sink
+calvo-bald
+probarse-to try on
+la barba-beard
+la regla-rule
+el comportamiento-behavior
+la soledad-loneliness
+renunciar-to resign
+respetar-to respect
+la paella-paella
+atraer-to attract
+la Navidad-Christmas
+profesional-professional
+el bigote-mustache
+contratar-to hire
+la marca-mark
+el rey-king
+pelearse-to fight
+la bandera-flag
+el retrato-portrait
+el dibujo-drawing
+la herramienta-tool
+la muela-molar
+estornudar-to sneeze
+la bruja-witch
+la cancha-court
+jamás-never
+sembrar-to plant
+la altura-height
+la tiza-chalk
+los hermanos-siblings
+el metal-metal
+ligero-light
+el camarón-shrimp
+diseñar-to design
+el chorizo-sausage
+salvaje-wild
+la risa-laughter
+el bocadillo-sandwich
+la huella-footprint
+el efectivo-cash
+utilizar-to use
+recetar-to prescribe
+el mostrador-counter
+el retraso-delay
+la langosta-lobster
+rápidamente-quickly
+estrenar-to premiere
+la carnicería-butcher shop
+el perfume-perfume
+la nube-cloud
+la beca-scholarship
+personal-personal
+enfermarse-to get sick
+enfrentar-to confront
+el informe-report
+los vaqueros-jeans
+el préstamo-loan
+el escenario-stage
+estacionar-to park
+apreciar-to appreciate
+tener prisa-to be in a hurry
+la sudadera-sweatshirt
+componer-to make up
+maravilloso-wonderful
+el humo-smoke
+agotar-to exhaust
+el disfraz-costume
+inolvidable-unforgettable
+el diente-tooth
+la terraza-terrace
+apretado-tight
+la niebla-fog
+la diversión-entertainment
+entrenarse-to train
+conservar-to maintain
+el globo-balloon
+la escena-scene
+el estado civil-marital status
+último-last
+entrevistar-to interview
+la leyenda-legend
+el origen-origin
+el respeto-respect
+presumido-conceited
+el cirujano-surgeon
+la cereza-cherry
+reservar-to reserve
+deportivo-sports
+el suceso-event
+empatar-to tie
+el comercio-trade
+el portátil-laptop
+la fecha de nacimiento-date of birth
+hablador-talkative
+puro-pure
+la ruta-route
+el yoga-yoga
+el periodismo-journalism
+el modelo-model
+la crema-cream
+el relato-story
+tener cuidado-to be careful
+votar-to vote
+el protagonista-main character
+la autoestima-self-esteem
+fantástico-fantastic
+elaborar-to make
+el rescate-rescue
+puntual-punctual
+el atleta-athlete
+el piloto-pilot
+estresado-stressed
+informar-to inform
+el editor-editor
+la catedral-cathedral
+especialmente-especially
+cortar el césped-to mow the lawn
+el envase-container
+transmitir-to transmit
+la oportunidad-opportunity
+el ascenso-promotion
+la cafetera-coffee maker
+el arete-earring
+la especialidad-specialty
+el desastre-disaster
+el fax-fax
+tener celos-to be jealous
+el ruso-Russian
+la recepción-reception
+la cualidad-quality
+el medicamento-medicine
+tener sueño-to be sleepy
+el canadiense-Canadian
+la demanda-demand
+el poema-poem
+la pirámide-pyramid
+apasionado-passionate
+el combustible-fuel
+la física-physics
+el aparcamiento-parking lot
+la vacación-vacation
+el malentendido-misunderstanding
+el euro-euro
+la chuleta de cerdo-pork chop
+el templo-temple
+atractivo-attractive
+el enfado-anger
+depositar-to deposit
+la limonada-lemonade
+el objeto-object
+el reportaje-report
+novedoso-novel
+insistir en-to insist on
+la entrega-delivery
+la pesadilla-nightmare
+la granja-farm
+la actitud-attitude
+derramar-to spill
+original-original
+la ortografía-spelling
+el toro-bull
+la cabra-goat
+el perfil-profile
+el apodo-nickname
+reemplazar-to replace
+la paciencia-patience
+la cadera-hip
+tragar-to swallow
+el castigo-punishment
+Canadá-Canada
+culpable-guilty
+el loro-parrot
+la sabiduría-wisdom
+el hígado-liver
+sabio-wise
+el cangrejo-crab
+ausente-absent
+jurar-to swear
+el pago-payment
+la ceja-eyebrow
+la caminata-hike
+hornear-to bake
+la India-India
+desafortunadamente-unfortunately
+el aviso-notice
+el verbo-verb
+eficaz-effective
+el fantasma-ghost
+cálido-warm
+el kiwi-kiwi
+ansioso-anxious
+soleado-sunny
+contrario-opposite
+el patrimonio-heritage
+deletrear-to spell
+el ballet-ballet
+Asia-Asia
+el robo-robbery
+el significado-meaning
+África-Africa
+el sushi-sushi
+leal-loyal
+la camioneta-van
+Japón-Japan
+Brasil-Brazil
+Rusia-Russia
+el accidente-accident
+el interés-interest
+turístico-tourist
+la temperatura-temperature
+lavarse la cara-to wash one's face
+el champiñón-mushroom
+modesto-modest
+separado-separated
+la comunicación-communication
+sostenible-sustainable
+el dramaturgo-playwright
+la biografía-biography
+llegar tarde-to be late
+independiente-independent
+el secador de pelo-hairdryer
+la tienda de ropa-clothing store
+la estrategia-strategy
+la operación-operation
+el dedo del pie-toe
+la biología-biology
+el trimestre-quarter
+por último-finally
+el aniversario-anniversary
+desorganizado-disorganized
+el italiano-Italian
+el pollo asado-roast chicken
+la adolescencia-adolescence
+práctico-practical
+el juego de mesa-board game
+el vino tinto-red wine
+el candidato-candidate
+el litro-liter
+internacional-international
+equilibrado-balanced
+la administración de empresas-business administration
+el compositor-composer
+la inseguridad-insecurity
+el escáner-scanner
+la graduación-graduation
+manipular-to manipulate
+hacer la compra-to go shopping
+tener una cita-to have an appointment
+las bellas artes-fine arts
+el entrevistador-interviewer
+el racismo-racism
+la obra de arte-work of art
+la generosidad-generosity
+el agua mineral-mineral water
+la conservación-conservation
+la crema de afeitar-shaving cream
+estar a dieta-to be on a diet
+el ecologista-environmentalist
+el salón de belleza-beauty salon
+el novelista-novelist
+el gramo-gram
+la víctima-victim
+el edificio de apartamentos-apartment building
+el cambio climático-climate change
+el vino blanco-white wine
+el mensaje de texto-text message
+el partido de fútbol-soccer game
+titularse-to be titled
+el compañero de clase-classmate
+las redes sociales-social media
+el hecho-fact
+soler-to use to
+la vez-time
+la razón-reason
+la pena-shame
+el éxito-success
+sonreír-to smile
+la estación-station
+la caja-box
+siguiente-next
+el marido-husban
+ala vista-view
+rechazar-to reject
+rogar-to beg
+nublado-cloudy
+la reina-queen
+la meta-goal
+el ejercicio-exercise
+el festival-festival
+afuera-outside
+destacar-to emphasize
+ni-nor
+engañar-to deceive
+aprobar-to pass
+el piano-piano
+sencillo-simple
+el punto-period
+la ayuda-help
+medio-half
+sufrir-to suffer
+tener ganas de-to feel like
+la dirección-direction
+la suegra-mother-in-law
+el techo-roof
+aquella-that
+el alcohol-alcohol
+el desafío-challenge
+la cadena-chain
+la pista-road
+propio-own
+la fuerza-strength
+brindar-to toast
+continuar-to continue
+único-only
+lentamente-slowly
+la gallina-hen
+acabar de-just
+el estudio-studio
+calentar-to heat
+salvar-to save
+deprimido-depressed
+el camping-camping
+el reto-challenge
+prometer-to promise
+la sombra-shadow
+mío-mine
+el placer-pleasure
+el suegro-father-in-law
+el alcalde-mayor
+flojo-loose
+el desfile-parade
+el hielo-ice
+la orilla-shore
+el aula-classroom
+el ladrón-thief
+el ocio-leisure
+la sorpresa-surprise
+la etapa-period
+ocurrir-to happen
+la sonrisa-smile
+soportar-to stand
+la mascota-pet
+el riesgo-risk
+aportar-to contribute
+enfadado-annoyed
+actualmente-at the moment
+la oveja-sheep
+entrenar-to train
+imprescindible-essential
+perfecto-perfect
+fomentar-to promote
+llevar a cabo-to carry out
+la ventaja-advantage
+el gorro-cap
+la ganga-bargain
+la mariposa-butterfly
+la riqueza-wealth
+establecer-to establish
+la rana-frog
+adivinar-to guess
+influir-to influence
+la bañera-bathtub
+el tornado-tornado
+el ave-bird
+la madrina-godmother
+los celos-jealousy
+organizar-to organize
+rizado-curly
+atrapar-to catch
+viudo-widowed
+la feria-fair
+pelar-to peel
+convencer-to convince
+los deberes-homework
+el aprendizaje-learning
+el aguacate-avocado
+el crecimiento-growth
+impresionante-impressive
+participar-to participate
+avanzar-to advance
+difundir-to spread
+reírse-to laugh
+el rasgo-feature
+la niñez-childhood
+la ballena-whale
+dar un paseo-to go for a walk
+la autopista-freeway
+el obrero-worker
+el robot-robot
+el relámpago-lightning
+maduro-mature
+el monitor-monitor
+el soldado-soldier
+reparar-to repair
+el letrero-sign
+apetecer-to feel like
+el aparato-device
+la nota-grade
+la escasez-shortage
+la búsqueda-search
+existir-to exist
+el volante-steering wheel
+la deuda-debt
+el trueno-thunder
+el durazno-peach
+perdonar-to forgive
+alguna vez-ever
+la presión-pressure
+chino-Chinese
+la enseñanza-education
+la superficie-surface
+el pensamiento-thought
+la queja-complaint
+la tristeza-sadness
+fundar-to found
+estar de acuerdo-to agree with
+poderoso-powerful
+la felicidad-happiness
+el estacionamiento-parking lot
+el locutor-announcer
+la propuesta-proposal
+el gasto-expense
+esconderse-to hide oneself
+congelado-frozen
+el balón-ball
+la habilidad-ability
+sobre todo-above all
+remar-to row
+empeorar-to get worse
+reservado-reserved
+torcerse-to twist
+el salón-living room
+convivir-to live together
+la hormiga-ant
+secuestrar-to kidnap
+el comerciante-merchant
+el mito-myth
+curar-to cure
+coleccionar-to collect
+el pizarrón-blackboard
+las afueras-outskirts
+el bisabuelo-great-grandfather
+necesario-necessary
+atlético-athletic
+la ansiedad-anxiety
+la papelería-stationery store
+acogedor-friendly
+especial-special
+predecir-to predict
+pararse-to stand up
+la convivencia-cohabitation
+la tarta-cake
+fenomenal-fantastic
+el tambor-drum
+sorprendente-surprising
+la pastelería-cake shop
+cocido-cooked
+el recreo-recess
+ocupar-to take up
+expresar-to express
+ensuciar-to get dirty
+enhorabuena-congratulations
+criticar-to criticize
+impulsar-to propel
+la mostaza-mustard
+afectar-to affect
+la gastronomía-gastronomy
+eliminar-to remove
+comunicar-to communicate
+colaborar-to collaborate
+emitir-to emit
+la bisabuela-great-grandmother
+la radiografía-X-ray
+donar-to donate
+el comercial-commercial
+la afición-hobby
+dar una caminata-to take a walk
+la colonia-colony
+examinar-to examine
+posible-possible
+el brindis-toast
+ascender-to promote
+honrado-honest
+fabricar-to fabricate
+el turismo-tourism
+probable-probable
+andar en patineta-to skateboard
+el pijama-pajamas
+el peatón-pedestrian
+declarar-to declare
+laboral-labor
+inventar-to invent
+la garantía-warranty
+los estudios-studies
+prestar atención-to pay attention
+la creencia-belief
+la rutina-routine
+honesto-honest
+instalar-to install
+el autorretrato-self-portrait
+optimista-optimistic
+la reserva-reserve
+el acceso-access
+la variedad-variety
+estar de moda-to be in fashion
+la flauta-flute
+el masaje-massage
+el semestre-semester
+ambiental-environmental
+frente a-in front of
+solidario-supportive
+fundamental-fundamental
+la gimnasia-gymnastics
+la emoción-emotion
+el entusiasmo-enthusiasm
+hacer las maletas-to pack
+la tarjeta postal-postcard
+el cubano-Cuban
+la quemadura-burn
+el sector-sector
+la tranquilidad-calm
+el andén-platform
+químico-chemical
+la tarjeta de embarque-boarding pass
+la dictadura-dictatorship
+la investigación-research
+las ruinas-ruins
+el gel-gel
+el uniforme-uniform
+el guionista-screenwriter
+espontáneo-spontaneous
+incómodo-uncomfortable
+hacer escala-to stop over
+el saco de dormir-sleeping bag
+el cuarto de baño-bathroom
+el programador-programmer
+el auxiliar de vuelo-flight attendant
+la sandía-watermelon
+el plato principal-main course
+lógico-logical
+la identidad-identity
+la trompeta-trumpet
+pensar en-to think about
+usar la computadora-to use the computer
+obediente-obedient
+acordarse de-to remember to
+aventurero-adventurous
+el contenedor-container
+lavarse los dientes-to brush one's teeth
+renovable-renewable
+derrochar-to squander
+esculpir-to sculpt
+la autobiografía-autobiography
+el aire acondicionado-air-conditioning
+las finanzas-finance
+el invento-invention
+tolerante-tolerant
+marroquí-Moroccan
+innovador-innovative
+la organización-organization
+la opinión-opinion
+la declaración-statement
+navegar por Internet-to surf the Internet
+la tableta-tablet
+hacer gimnasia-to work out
+el arqueólogo-archaeologist
+la producción-production
+el vegetariano-vegetarian
+tener fiebre-to have a fever
+norteamericano-North American
+el seguidor-follower
+la patata frita-french fry
+el narrador-narrator
+financiar-to finance
+la tolerancia-tolerance
+estar de vacaciones-to be on vacation
+la lenteja-lentil
+la ambulancia-ambulance
+la obra maestra-masterpiece
+despedirse de-to say goodbye to
+la ceremonia-ceremony
+la injusticia-injustice
+la constitución-constitution
+la identificación-identification
+limpiar la casa-to clean the house
+el sándwich-sandwich
+la licencia de conducir-driver's license
+olvidarse de-to forget
+la creatividad-creativity
+la cooperación-cooperation
+recomendable-advisable
+el cerrajero-locksmith
+informativo-informative
+sala de emergencia-emergency room
+la clínica-clinic
+la civilización-civilization
+la dirección electrónica-email address
+la vitamina-vitamin
+contaminante-contaminating
+zumo de naranja-orange juice
+el día festivo-holiday
+tomar decisiones-to make decisions
+la explosión-explosion
+la erosión-erosion
+la caloría-calorie
+la estación de metro-subway station
+estar en línea-to be online
+la ópera-opera
+el sentido del humor-sense of humor
+hasta luego-see you later
+el control remoto-remote control
+el trabajador social-social worker
+el teléfono celular-cell phone
+programa de entrevistas-talk show
+la estación de tren-train station
+habitación individual-single room
+la videoconferencia-videoconference
+montar-to ride
+el cuidado-care
+entrar-to enter
+cumplir-to achieve
+dentro-inside
+encima-on top
+darse cuenta-to realize
+huir-to flee
+secarse-to dry
+extraño-strange
+el colegio-school
+valer-to be worth
+la manera-way (nachin / method)
+el amanecer-dawn
+colgar-to hang
+la pregunta-question
+pesar-to weigh
+el nivel-level
+la madrugada-dawn
+picar-to itch
+comprobar-to check
+el pecho-chest
+el estado-state
+el club-club
+prender-to turn on
+el esfuerzo-effort
+junto-together
+acudir-to come
+tacaño-stingy
+la mitad-half
+superar-to overcome
+roto-broken
+marcar-to mark
+conjunto-joint
+girar-to turn
+la belleza-beauty
+despegar-to take off
+regar-to water
+arreglarse-to get ready
+el yerno-son-in-law
+el fin-end
+la arena-sand
+la sierra-mountain range
+la herida-wound
+vacío-empty
+la seda-silk
+el sartén-frying pan
+firmar-to sign
+la parada-stop
+hacerse-to make oneself
+el pañuelo-handkerchief
+desempeñar-to carry out
+el peligro-danger
+el sitio-place
+la mentira-lie
+el flan-crème caramel
+gran-large
+la nuera-daughter-in-law
+enterarse-to find out
+advertir-to warn
+el lobo-wolf
+surgir-to arise
+repartir-to distribute
+planear-to plan
+dispuesto-willing
+avergonzado-ashamed
+la torta-cake
+el beso-kiss
+la broma-joke
+la firma-signature
+lastimarse-to hurt oneself
+la cifra-figure
+acompañar-to go with
+excelente-excellent
+la mejilla-cheek
+herido-hurt
+el pepino-cucumber
+amargo-bitter
+el juicio-trial
+el yeso-cast
+anterior-previous
+el pasaje-ticket
+la encuesta-survey
+el olor-smell
+aquellos-those
+la lectura-reading
+la lección-lesson
+sentado-seated
+liso-smooth
+la llamada-call
+juzgar-to judge
+la cordillera-mountain range
+generalmente-generally
+otorgar-to grant
+el sacapuntas-pencil sharpener
+el asco-disgust
+el ejemplo-example(primer)
+el cobarde-coward
+el mantel-tablecloth
+el principio-beginning
+desconocido-unknown
+equivocarse-to make a mistake
+extrovertido-outgoing
+alimentar-to feed
+el entrenamiento-training
+la sábana-sheet
+perderse-to get lost
+ingresar-to enter
+emprender-to undertake
+natural-natural
+el recorrido-route
+la frontera-border
+embarazada-pregnant
+el humor-humor
+cortarse-to cut oneself
+realmente-actually
+rescatar-to rescue
+la mezcla-mixture
+ruidoso-noisy
+contribuir-to contribute
+las ciencias-science
+el plano-plan
+rodar-to shoot
+el testigo-witness
+el logro-achievement
+avanzado-advanced
+el líder-leader
+la secadora-dryer
+la torre-tower
+la sede-headquarters
+mundial-worldwide
+el tejido-tissue
+la hierba-grass
+terco-stubborn
+apostar-to bet
+el tratamiento-treatment
+el caldo-broth
+sorprendido-surprised
+finalmente-finally
+la calefacción-heating
+el colchón-mattress
+el lector-reader
+la colina-hill
+la llanta-tire
+cansarse-to get tired
+la agenda-schedule
+el software-software
+el chisme-gossip
+el dólar-dollar
+la mosca-fly
+el padrino-godfather
+la ternura-tenderness
+la noticia-news
+el elefante-elephant
+la trama-plot
+escaso-scarce
+inmediatamente-immediately
+la cortina-curtain
+el tiburón-shark
+la conversación-conversation
+la redacción-essay
+el rascacielos-skyscraper
+cortés-polite
+provocar-to cause
+alojarse-to stay
+el sentimiento-feeling
+la crisis-crisis
+el cerebro-brain
+profundo-deep
+la bola-ball
+los valores-values
+la arroba-at
+la barra-bar
+el campeonato-championship
+el desprecio-contempt
+resultar-to turn out
+la cuestión-issue
+el oficio-trade
+cercano-close
+infantil-children's
+el porvenir-future
+la papa frita-french fry
+la bahía-bay
+el choque-crash
+seguramente-probably
+el detalle-detail
+el cuadrado-square
+el detective-detective
+aclarar-to clarify
+abandonar-to leave
+prudente-prudent
+el preso-prisoner
+recientemente-recently
+debido a-because of
+el zumo-juice
+la limpieza-cleanliness
+ida y vuelta-round-trip
+la brújula-compass
+confundido-confused
+enfrente de-across from
+atento-attentive
+chau-bye
+cultivar-to cultivate
+separar-to separate
+la fama-fame
+la lástima-shame
+el lema-motto
+fácilmente-easily
+la cucharada-spoonful
+caer bien-to like
+últimamente-lately
+blando-soft
+cuidarse-to take care of oneself
+los ancianos-elderly
+inesperado-unexpected
+la lavandería-laundry
+la consulta-consultation
+la parrilla-grill
+la maravilla-wonder
+felicitar-to congratulate
+brillante-bright
+la neblina-mist
+Guatemala-Guatemala
+el bate-bat
+el faro-lighthouse
+tomar apuntes-to take notes
+la Pascua-Easter
+la oscuridad-darkness
+opinar-to believe
+entretenido-entertaining
+la realidad-reality
+requerir-to require
+Alemania-Germany aleman - German
+arriesgar-to risk
+prever-to foresee
+el homenaje-homage
+típico-typical
+explotar-to exploit
+el parabrisas-windshield
+registrar-to search
+jubilado-retired
+aproximadamente-approximately
+la angustia-anxiety
+mediano-medium
+la hipoteca-mortgage
+la red social-social network
+la berenjena-eggplant
+la velocidad-speed
+facturar el equipaje-to check in one's luggage
+el refugio-shelter
+aislado-isolated
+despistado-absent-minded
+la máquina-machine
+el tigre-tiger
+el remedio-remedy
+el gazpacho-gazpacho
+el árabe-Arabic
+esforzarse-to make an effort
+el chicle-chewing gum
+garantizar-to guarantee
+el jardinero-gardener
+la vacuna-vaccine
+futuro-future
+la docena-dozen
+el cortometraje-short film
+Colombia-Colombia
+el cable-wire
+digno-worthy
+cultural-cultural
+el remo-oar
+la mercancía-merchandise
+la linterna-flashlight
+el pulmón-lung
+el momento-moment
+el avance-advance
+la madurez-maturity
+la capacidad-capacity
+el triunfo-triumph
+bilingüe-bilingual
+Nicaragua-Nicaragua
+gestionar-to manage
+gobernar-to govern
+el zoológico-zoo
+puertorriqueño-Puerto Rican
+la valentía-bravery
+falso-false
+disculparse-to apologize
+el héroe-hero
+el departamento-department
+tener en cuenta-to keep in mind
+hacer la maleta-to pack
+la aceituna-olive
+el asesor-advisor
+la princesa-princess
+bromear-to joke
+intercambiar-to exchange
+pesimista-pessimistic
+manifestar-to declare
+abrazarse-to hug each other
+el adolescente-teenager
+la solidaridad-solidarity
+el asesinato-murder
+el desperdicio-waste
+el enemigo-enemy
+el instituto-institute
+el fósforo-match
+ponerse la ropa-to put on one's clothes
+acusar-to accuse
+exterior-outer
+la dulzura-sweetness
+el resultado-result
+tener suerte-to be lucky
+el patinaje-skating
+el fenómeno-phenomenon
+exagerado-exaggerated
+la personalidad-personality
+el peinado-hairstyle
+la tradición-tradition
+la ciudadanía-citizenship
+introvertido-introverted
+la norma-rule
+el ganador-winner
+la figura-figure
+el torneo-tournament
+el cristal-glass
+la cascada-waterfall
+presentarse-to introduce oneself
+explorar-to explore
+la iniciativa-initiative
+emocionarse-to be moved
+la psicología-psychology
+sacudir los muebles-to dust the furniture
+el hijastro-stepson
+Francia-France
+el ecuatoriano-Ecuadorian
+maltratar-to mistreat
+la situación-situation
+meter un gol-to score a goal
+la Semana Santa-Holy Week
+el garbanzo-chickpea
+la pérdida-loss
+directo-direct
+la petición-request
+el prejuicio-prejudice
+el chaval-kid
+el termómetro-thermometer
+conservador-conservative
+la explicación-explanation
+furioso-furious
+considerado-considerate
+injusto-unfair
+el verso-verse
+sacar una buena nota-to get a good grade
+narrar-to tell
+el rodaje-shooting
+el guisante-pea
+el hostal-hostel
+la picadura-sting
+la construcción-construction
+el electrodoméstico-electrical appliance
+tratarse de-to be about
+arriesgado-risky
+ratos libres-spare time
+imitar-to imitate
+el carnaval-carnival
+la aspirina-aspirin
+la tienda de campaña-tent
+el embutido-sausage
+la inscripción-registration
+la desventaja-disadvantage
+estar seguro-to be sure
+ver una película-to see a movie
+planchar la ropa-to iron the clothes
+propiciar-to create a favorable atmosphere for
+la tendencia-tendency
+preferido-favorite
+el banquero-banker
+el secreto-secret
+la medalla-medal
+el incremento-increase
+protestar-to protest
+eficiente-efficient
+el pan tostado-toast
+hervido-boiled
+nacional-national
+el medioambiente-environment
+sedentario-sedentary
+la zapatilla-slipper
+la dificultad-difficulty
+la cáscara-shell
+la heroína-heroine
+el ecoturismo-ecotourism
+el auditorio-audience
+las ciencias sociales-social sciences
+digital-digital
+el misterio-mystery
+restringir-to restrict
+el melón-melon
+el productor-producer
+el colombiano-Colombian
+tumbarse-to lie down
+la ocupación-occupation
+la galería-gallery
+el representante-representative
+tocar el piano-to play the piano
+dinámico-dynamic
+mágico-magic
+el establecimiento-establishment
+inmaduro-immature
+además de-besides
+romper con-to break up with
+la curiosidad-curiosity
+diverso-diverse
+la luna de miel-honeymoon
+imprudente-careless
+el adulto-adult
+los derechos humanos-human rights
+de mal humor-in a bad mood
+el medio hermano-half-brother
+la prosa-prose
+la disciplina-discipline
+la dignidad-dignity
+Italia-Italy
+la duración-length
+administrar-to manage
+la independencia-independence
+la mesita de noche-bedside table
+el mercadeo-marketing
+el astronauta-astronaut
+el ingrediente-ingredient
+la generación-generation
+la banda sonora-soundtrack
+la depresión-depression
+el jean-jeans
+reutilizar-to reuse
+la democracia-democracy
+el suspenso-suspense
+céntrico-central
+lavarse las manos-to wash one's hands
+indignar-to anger
+religioso-religious
+enamorarse de-to fall in love with
+auténtico-authentic
+chocar con-to collide with
+la perspectiva-perspective
+cepillarse el pelo-to brush one's hair
+la creación-creation
+el compañero de cuarto-roommate
+agachado-submissive
+la extinción-extinction
+hacer clic-to click
+llenar el tanque-to fill the tank
+el brasileño-Brazilian
+empollón-nerdy
+estar harto de-to be fed up with
+el insecto-insect
+estar perdido-to be lost
+hacer el papel de-to play the role of
+la exportación-exportation
+la puntualidad-punctuality
+el diálogo-conversation
+el navegador-browser
+portarse mal-to misbehave
+poner una inyección-to give an injection
+el horno de microondas-microwave
+la tabla de surf-surfboard
+la categoría-category
+motivado-motivated
+pasear en bicicleta-to ride a bicycle
+tocar un instrumento-to play an instrument
+la residencia estudiantil-dormitory
+irresponsable-irresponsible
+cumplir años-to have one's birthday
+la sardina-sardine
+el personaje principal-main character
+la infección-infection
+la proteína-protein
+tener dolor-to be in pain
+el investigador-researcher
+medios de comunicación-media
+el cheque de viajero-traveler's check
+el colesterol-cholesterol
+la puerta de embarque-boarding gate
+enojarse con-to get angry with
+el corredor de bolsa-stockbroker
+antes que-before
+el eslogan-slogan
+el drogadicto-drug addict
+el ecosistema-ecosystem
+el accesorio-accessory
+la genética-genetics
+ir de excursión-to go on a trip
+el chaleco salvavidas-life jacket
+la vida nocturna-nightlife
+la atmósfera-atmosphere
+el currículum vitae-curriculum vitae
+intolerante-intolerant
+ir al gimnasio-to go to the gym
+en línea-online
+la despedida de soltera-bachelorette party
+el estado de ánimo-mood
+el cráter-crater
+ir en avión-to go by plane
+el terrorismo-terrorism
+el boleto de ida y vuelta-round-trip ticket
+evidenciar-to show
+el comercio justo-fair trade
+la primera clase-first class
+comedor de beneficencia-soup kitchen
+navegar en Internet-to surf the Internet
+peligro de extinción-danger of extinction
+la fuente de energía-source of energy
+el efecto especial-special effect
+el vuelo directo-direct flight
+exceso de equipaje-excess baggage
+la estrella de cine-movie star
+ir en autobús-to go by bus
+la clase turista-tourist class
+el pasaje de ida y vuelta-round-trip ticket
+echar al buzón-to mail
+la contaminación del aire-air pollution
+la República Dominicana-Dominican Republic
+escribir correos electrónicos-to write emails
+el seguro médico-medical insurance
+el incendio forestal-forest fire
+las elecciones-election
+refugiarse-to take shelter
+alrededor-around
+la tarde-afternoon
+lindo-pretty
+el pueblo-people
+real-real
+el acuerdo-agreement
+la suerte-luck
+sino-but
+realizar-to carry out
+delante-in front
+la falta-lack
+detrás-behind
+barrer-to sweep
+la media-stocking
+la muñeca-doll
+enseguida-immediately
+cubrir-to cover
+cepillarse-to brush
+el tamaño-size
+agradecer-to thank
+solamente-only
+el fondo-bottom
+atreverse-to dare
+debajo-underneath
+el alma-soul
+la sed-thirst
+la hoja-leaf
+suceder-to happen
+el tipo-type    
+detener-to stop
+mover-to move
+el rock-rock
+ladrar-to bark
+el contenido-content
+comportarse-to behave
+el recibo-receipt
+completar-to complete
+coquetear-to flirt
+encantador-charming
+el aspecto-appearance
+la sugerencia-suggestion
+vaciar-to empty
+la cueva-cave
+la cirugía-surgery
+significar-to mean
+el quehacer-chore
+la nuez-nut
+la introducción-introduction
+verter-to pour
+teñir-to dye
+la hembra-female
+armar-to assemble
+el colega-colleague
+la toronja-grapefruit
+aplicar-to apply
+físico-physical
+admitir-to admit
+exitoso-successful
+comparar-to compare
+el pulgar-thumb
+la frambuesa-raspberry
+el brócoli-broccoli
+imaginar-to imagine
+la lágrima-tear
+exactamente-exactly
+el texto-text
+el plomero-plumber
+mensual-monthly
+estricto-strict
+la teoría-theory
+lluvioso-rainy
+completamente-completely
+el vocabulario-vocabulary
+libre-free
+bienvenido-welcome
+dime-tell me
+abajo-down
+el valor-value
+chocar-to crash
+la derecha-right
+cierto-true
+quemar-to burn
+reunirse-to meet
+la izquierda-left
+merecer-to deserve
+Puerto Rico-Puerto Rico
+oler-to smell
+atender-to attend to
+querido-dear
+corregir-to correct
+la tela-cloth
+el sentido-sense
+el taco-taco
+equivocado-wrong
+merendar-to have an afternoon snack
+el dios-god
+incluir-to include
+la aduana-customs
+la parte-part
+Chile-Chile
+el mesero-waiter
+la venta-sale
+el entorno-environment
+el camión-truck
+los deportes-sports
+el honor-honor
+tardar-to take
+el gas-gas
+criar-to raise
+conocido-famous
+escalar-to climb
+atravesar-to cross
+muerto-dead
+el alumno-student
+arrojar-to throw
+fallar-to fail
+padecer-to suffer from
+verdadero-true
+final-final
+mentiroso-liar
+el capricho-whim
+la ubicación-location
+la señal-signal
+el fracaso-failure
+atentamente-attentively
+el inodoro-toilet
+la cuerda-rope
+escolar-school
+preocupar-to worry
+la miel-honey
+el trigo-wheat
+humilde-humble
+proveer-to provide
+el permiso-permission
+el rumbo-course
+la araña-spider
+solo-only

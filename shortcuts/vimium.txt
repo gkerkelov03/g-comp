@@ -1,0 +1,42 @@
+trqbva da pishesh na angl che da raboti vsichko
+
+za da izlqzat vsichki linkove f ako iskash da se otvori v tekushtiq tab i F ako iskash v nov
+
+skrol nalqvo - h
+skrol nadqsno - l
+skrol nadolu - j
+skrol nagore - k
+da idesh nai otgore - gg
+da idesh nai otdolu - G
+skrol nagore ama po burzo - u
+skrol nadolu ama po burzo - d
+
+gs - view source
+yy - copy current page url
+yf - copy a link url to clipboard
+p - open the url in the clipboard in the current tab
+P - open the url in the clipboard in a new tab
+refersh na stranicata - r
+
+da tursish neshto - o
+da tursish neshto v drug tab - O
+da redaktirash tekushtiq url i sled tova da go otvorish - ge
+da redaktirash tekushtiq url i sled tova da go otvorish v drug tab - gE
+tursene control t trqbva da skrolvash s mishkata za next control g za prev control shift g escape za da se mahne
+nazad v istoriqta - H
+napred v istoriqta - L
+
+navigaciq nalqvo mejdu tabovete - J ili gT
+navigaciq nadqsno mejdu tabovete - K ili gt
+pravene na nov tab - t
+dublicirane na segashniq tab - yt
+zatvarqne na tabove - x ako ima neshto na focus control w
+vrushtane na zatvoreni tabove - X ako ima neshto na focus control shift t
+
+da mestish tab nalqvo - <<
+da mestish tab nadqsno - >>
+mutvane na tab - m
+
+/ - to search
+n - to go to the next match
+N - to go to the previous match
